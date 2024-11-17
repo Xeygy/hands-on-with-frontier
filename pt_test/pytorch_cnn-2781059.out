@@ -1,0 +1,149 @@
+Sun 17 Nov 2024 02:16:21 PM EST
+
+Lmod is automatically replacing "cce/17.0.0" with "gcc-native/12.3".
+
+
+Lmod is automatically replacing "PrgEnv-cray/8.5.0" with "PrgEnv-gnu/8.5.0".
+
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) cray-libsci/23.12.5     2) cray-mpich/8.1.28     3) darshan-runtime/3.4.4-mpi
+
+The device you are using is:  cuda
+
+Batch size: 4
+Number of epochs: 4
+Learning rate: 0.001
+
+Epoch [1/4], Step [500/12500], Loss: 2.2930
+Epoch [1/4], Step [1000/12500], Loss: 2.3350
+Epoch [1/4], Step [1500/12500], Loss: 2.3174
+Epoch [1/4], Step [2000/12500], Loss: 2.2853
+Epoch [1/4], Step [2500/12500], Loss: 2.3059
+Epoch [1/4], Step [3000/12500], Loss: 2.3299
+Epoch [1/4], Step [3500/12500], Loss: 2.3191
+Epoch [1/4], Step [4000/12500], Loss: 2.3253
+Epoch [1/4], Step [4500/12500], Loss: 2.2681
+Epoch [1/4], Step [5000/12500], Loss: 2.3284
+Epoch [1/4], Step [5500/12500], Loss: 2.2840
+Epoch [1/4], Step [6000/12500], Loss: 2.2806
+Epoch [1/4], Step [6500/12500], Loss: 2.2599
+Epoch [1/4], Step [7000/12500], Loss: 2.2699
+Epoch [1/4], Step [7500/12500], Loss: 2.2807
+Epoch [1/4], Step [8000/12500], Loss: 2.2755
+Epoch [1/4], Step [8500/12500], Loss: 2.2930
+Epoch [1/4], Step [9000/12500], Loss: 2.2559
+Epoch [1/4], Step [9500/12500], Loss: 2.2608
+Epoch [1/4], Step [10000/12500], Loss: 2.2564
+Epoch [1/4], Step [10500/12500], Loss: 2.2752
+Epoch [1/4], Step [11000/12500], Loss: 2.1454
+Epoch [1/4], Step [11500/12500], Loss: 2.1579
+Epoch [1/4], Step [12000/12500], Loss: 2.1426
+Epoch [1/4], Step [12500/12500], Loss: 1.8676
+Epoch [2/4], Step [500/12500], Loss: 2.5620
+Epoch [2/4], Step [1000/12500], Loss: 1.9966
+Epoch [2/4], Step [1500/12500], Loss: 2.1658
+Epoch [2/4], Step [2000/12500], Loss: 2.0567
+Epoch [2/4], Step [2500/12500], Loss: 1.9517
+Epoch [2/4], Step [3000/12500], Loss: 1.9650
+Epoch [2/4], Step [3500/12500], Loss: 2.5915
+Epoch [2/4], Step [4000/12500], Loss: 1.8525
+Epoch [2/4], Step [4500/12500], Loss: 1.9291
+Epoch [2/4], Step [5000/12500], Loss: 1.2103
+Epoch [2/4], Step [5500/12500], Loss: 1.9546
+Epoch [2/4], Step [6000/12500], Loss: 2.1419
+Epoch [2/4], Step [6500/12500], Loss: 1.8548
+Epoch [2/4], Step [7000/12500], Loss: 1.6001
+Epoch [2/4], Step [7500/12500], Loss: 2.3196
+Epoch [2/4], Step [8000/12500], Loss: 1.9782
+Epoch [2/4], Step [8500/12500], Loss: 1.8113
+Epoch [2/4], Step [9000/12500], Loss: 1.8735
+Epoch [2/4], Step [9500/12500], Loss: 1.8079
+Epoch [2/4], Step [10000/12500], Loss: 1.4314
+Epoch [2/4], Step [10500/12500], Loss: 1.5513
+Epoch [2/4], Step [11000/12500], Loss: 1.3670
+Epoch [2/4], Step [11500/12500], Loss: 2.9417
+Epoch [2/4], Step [12000/12500], Loss: 1.3760
+Epoch [2/4], Step [12500/12500], Loss: 1.8902
+Epoch [3/4], Step [500/12500], Loss: 1.5148
+Epoch [3/4], Step [1000/12500], Loss: 1.0174
+Epoch [3/4], Step [1500/12500], Loss: 1.7990
+Epoch [3/4], Step [2000/12500], Loss: 1.5177
+Epoch [3/4], Step [2500/12500], Loss: 1.7526
+Epoch [3/4], Step [3000/12500], Loss: 1.9178
+Epoch [3/4], Step [3500/12500], Loss: 1.8873
+Epoch [3/4], Step [4000/12500], Loss: 1.4491
+Epoch [3/4], Step [4500/12500], Loss: 1.4955
+Epoch [3/4], Step [5000/12500], Loss: 2.2931
+Epoch [3/4], Step [5500/12500], Loss: 1.7038
+Epoch [3/4], Step [6000/12500], Loss: 2.0590
+Epoch [3/4], Step [6500/12500], Loss: 1.3551
+Epoch [3/4], Step [7000/12500], Loss: 2.0127
+Epoch [3/4], Step [7500/12500], Loss: 0.8334
+Epoch [3/4], Step [8000/12500], Loss: 1.2558
+Epoch [3/4], Step [8500/12500], Loss: 1.4228
+Epoch [3/4], Step [9000/12500], Loss: 1.6885
+Epoch [3/4], Step [9500/12500], Loss: 2.0949
+Epoch [3/4], Step [10000/12500], Loss: 1.5784
+Epoch [3/4], Step [10500/12500], Loss: 1.8348
+Epoch [3/4], Step [11000/12500], Loss: 2.4869
+Epoch [3/4], Step [11500/12500], Loss: 1.9646
+Epoch [3/4], Step [12000/12500], Loss: 1.7114
+Epoch [3/4], Step [12500/12500], Loss: 0.9372
+Epoch [4/4], Step [500/12500], Loss: 1.2746
+Epoch [4/4], Step [1000/12500], Loss: 0.9648
+Epoch [4/4], Step [1500/12500], Loss: 2.2978
+Epoch [4/4], Step [2000/12500], Loss: 2.2599
+Epoch [4/4], Step [2500/12500], Loss: 1.5879
+Epoch [4/4], Step [3000/12500], Loss: 1.8002
+Epoch [4/4], Step [3500/12500], Loss: 1.9785
+Epoch [4/4], Step [4000/12500], Loss: 1.6934
+Epoch [4/4], Step [4500/12500], Loss: 2.1241
+Epoch [4/4], Step [5000/12500], Loss: 1.8467
+Epoch [4/4], Step [5500/12500], Loss: 1.2848
+Epoch [4/4], Step [6000/12500], Loss: 1.5953
+Epoch [4/4], Step [6500/12500], Loss: 1.6368
+Epoch [4/4], Step [7000/12500], Loss: 2.0255
+Epoch [4/4], Step [7500/12500], Loss: 2.0136
+Epoch [4/4], Step [8000/12500], Loss: 0.8288
+Epoch [4/4], Step [8500/12500], Loss: 2.4539
+Epoch [4/4], Step [9000/12500], Loss: 1.3944
+Epoch [4/4], Step [9500/12500], Loss: 0.7091
+Epoch [4/4], Step [10000/12500], Loss: 1.2335
+Epoch [4/4], Step [10500/12500], Loss: 2.1054
+Epoch [4/4], Step [11000/12500], Loss: 1.6680
+Epoch [4/4], Step [11500/12500], Loss: 1.6233
+Epoch [4/4], Step [12000/12500], Loss: 1.2026
+Epoch [4/4], Step [12500/12500], Loss: 1.2288
+Finished Training
+
+Accuracy of Class Samples (e.g., Number of Frogs Correct / Number of Frog Samples)
+==================================================================================
+Accuracy of Plane samples: 48.5 %
+Accuracy of Car samples: 54.1 %
+Accuracy of Bird samples: 23.4 %
+Accuracy of Cat samples: 18.1 %
+Accuracy of Deer samples: 26.2 %
+Accuracy of Dog samples: 58.5 %
+Accuracy of Frog samples: 76.7 %
+Accuracy of Horse samples: 52.8 %
+Accuracy of Ship samples: 52.4 %
+Accuracy of Truck samples: 58.4 %
+
+Accuracy of Predictions (e.g., Number of Frogs Correct / Number of Frog Predictions)
+====================================================================================
+Accuracy of Plane predictions: 55.49199084668192 %
+Accuracy of Car predictions: 65.33816425120773 %
+Accuracy of Bird predictions: 42.77879341864717 %
+Accuracy of Cat predictions: 36.2 %
+Accuracy of Deer predictions: 42.60162601626016 %
+Accuracy of Dog predictions: 37.1900826446281 %
+Accuracy of Frog predictions: 40.41095890410959 %
+Accuracy of Horse predictions: 52.01970443349754 %
+Accuracy of Ship predictions: 55.21601685985247 %
+Accuracy of Truck predictions: 48.62614487926728 %
+
+Accuracy of the network: 46.91 %
+Execution time of training loop:  119.00957322120667 s
+
+Accuracy not 60% or above, try again!
