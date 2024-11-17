@@ -1,0 +1,5 @@
+Sun 17 Nov 2024 01:59:16 PM EST
+Traceback (most recent call last):
+  File "/autofs/nccs-svm1_home1/csep09/hands-on-with-frontier/challenges/Python_Pytorch_Basics/pytorch_test/cnn.py", line 6, in <module>
+    import torch
+ModuleNotFoundError: No module named 'torch'

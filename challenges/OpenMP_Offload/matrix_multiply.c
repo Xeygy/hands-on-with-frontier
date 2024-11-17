@@ -42,7 +42,9 @@ int main(int argc, char *argv[]){
     Perform matrix multiply manually within a loop and measure time 
     --------------------------------------------------------------- */
     start = omp_get_wtime();
-
+    #pragma omp target map(to:A[0:N*N],B[0:N*N]) map(tofrom:C[0:N*N])
+    {
+    #pragma omp teams distribute parallel for collapse(2) 
     for(int row=0; row<N; row++){
         for(int col=0; col<N; col++){
             for(int k=0; k<N; k++){
@@ -52,7 +54,7 @@ int main(int argc, char *argv[]){
 
             }
         }
-    }
+    }}
 
     stop = omp_get_wtime();
     loop_elapsed_time = stop - start; 

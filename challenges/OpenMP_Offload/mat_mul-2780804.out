@@ -1,0 +1,3 @@
+srun: error: frontier00006: task 0: Exited with exit code 2
+srun: Terminating StepId=2780804.0
+slurmstepd: error: execve(): /autofs/nccs-svm1_home1/csep09/hands-on-with-frontier/challenges/OpenMP_Offload/./matrix_multiply: No such file or directory

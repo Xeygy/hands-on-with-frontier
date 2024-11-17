@@ -1,0 +1,22 @@
+Sun 17 Nov 2024 11:10:27 AM EST
+ 
+-------------------------------------------------------------------------------
+There are messages associated with the following module(s):
+-------------------------------------------------------------------------------
+
+gcc/12.2.0:
+   As of July 16, 2024, the 'gcc' module name is deprecated and has been
+   replaced by 'gcc-native'. Running 'module load gcc' from a default login
+   shell has undefined behavior due to this name change. Please use 'module
+   load PrgEnv-gnu gcc', or optionally 'module load PrgEnv-gnu cpe/23.09' to
+   load older versions of the GNU toolchain. See https://docs.olcf.ornl.gov/software/software-news.html#frontier-system-software-update-july-16-2024
+   for more information.
+
+-------------------------------------------------------------------------------
+
+
+The following have been reloaded with a version change:
+  1) cray-mpich/8.1.28 => cray-mpich/8.1.27
+
+Number of OpenMP threads: 004
+Elapsed Time (s)        : 0.102174
