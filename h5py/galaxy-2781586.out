@@ -1,0 +1,35 @@
+Sun 17 Nov 2024 03:51:27 PM EST
+Traceback (most recent call last):
+  File "/lustre/orion/trn001/scratch/csep09/galaxy_challenge/galaxy.py", line 10, in <module>
+Traceback (most recent call last):
+  File "/lustre/orion/trn001/scratch/csep09/galaxy_challenge/galaxy.py", line 10, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/lustre/orion/trn001/scratch/csep09/galaxy_challenge/galaxy.py", line 10, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/lustre/orion/trn001/scratch/csep09/galaxy_challenge/galaxy.py", line 10, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/lustre/orion/trn001/scratch/csep09/galaxy_challenge/galaxy.py", line 10, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/lustre/orion/trn001/scratch/csep09/galaxy_challenge/galaxy.py", line 10, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/lustre/orion/trn001/scratch/csep09/galaxy_challenge/galaxy.py", line 10, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+Traceback (most recent call last):
+  File "/lustre/orion/trn001/scratch/csep09/galaxy_challenge/galaxy.py", line 10, in <module>
+    from mpi4py import MPI
+ModuleNotFoundError: No module named 'mpi4py'
+srun: error: frontier07083: tasks 0-7: Exited with exit code 1
+srun: Terminating StepId=2781586.0
